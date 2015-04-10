@@ -1,6 +1,0 @@
-<workspace>
-	<batchBuild></batchBuild>
-	<project>
-		<path>$WS_DIR$\avrsbin1_calibrate.ewp</path>
-	</project>
-</workspace>

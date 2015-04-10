@@ -1,6 +1,0 @@
-<workspace>
-	<batchBuild></batchBuild>
-	<project>
-		<path>$WS_DIR$\uc3_uart_bootloader.ewp</path>
-	</project>
-</workspace>
