@@ -6,6 +6,8 @@
 #include <delay.h>
 #include "sam0/utils/cmsis/samd21/include/pio/samd21e18a.h"
 
+// See http://jjmilburn.github.io/2014/09/18/Atmel-SAMD20-EclipseCDT/
+
 #define MY_LED    PIN_PA08
 
 int main(void)
